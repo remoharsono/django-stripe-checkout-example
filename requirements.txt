@@ -5,4 +5,4 @@ idna==2.6
 pytz==2018.4
 requests>=2.20.0
 stripe==1.82.1
-urllib3==1.22
+urllib3>=1.23
